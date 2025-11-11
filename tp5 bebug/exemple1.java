@@ -1,7 +1,7 @@
 public class exemple1{
     public static void main(String[] args){
         int a=1;
-        int b=3;
+        int b=5;
         int s=a+b;
         System.out.println("etape1 a="+a);
          System.out.println("etape1 a="+b);
